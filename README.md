@@ -1,21 +1,22 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Tämä on erittäin salainen ja törkeä eikun tärkeä dokumentti. 
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
+* Tämä repo on erittäin salainen harjoitusrepo julkisessa Githubissa. 
+* Version 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Maanantai 
+* Tiistai
+* Keskiviikko
+* Torstai
+* Perjantai 
+* Perjantai
+* Perjantai
 
 ### Contribution guidelines ###
 
@@ -25,5 +26,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Repo owner or admin: salean 
+* Other community or team contact: Tonsu
