@@ -8,7 +8,7 @@ Tämä on erittäin salainen ja törkeä eikun tärkeä dokumentti.
 * Version 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Viikonpäiviä ###
 
 * Maanantai 
 * Tiistai
@@ -18,13 +18,14 @@ Tämä on erittäin salainen ja törkeä eikun tärkeä dokumentti.
 * Perjantai
 * Perjantai
 
-### Contribution guidelines ###
+### Vuodenaikoja Suomessa ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* Talvi
+* Talvi
+* Talvi 
+* Kevät
 
-### Who do I talk to? ###
+### Ketä me nyt sit ollaan? ###
 
 * Repo owner or admin: salean 
 * Other community or team contact: Tonsu
