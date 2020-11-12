@@ -3,15 +3,15 @@
 #Muokataanko vaikka tekstiä#
 #Hauskaa iltaa#
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Tämä kannattaa ehdottomasti lukea!
 
-### What is this repository for? ###
+### Mikä on tämän repon pointti? ###
 
-* Quick summary
-* Version
+* Tämä on supersiisti harjoitusrepo
+* Version 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Mitäs täs tehdään? ###
 
 * Summary of set up
 * Configuration
@@ -20,13 +20,13 @@ This README would normally document whatever steps are necessary to get your app
 * How to run tests
 * Deployment instructions
 
-### Contribution guidelines ###
+### Kuink tätät testataa? ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* Kaverien kanssa 
+* Iteksensä
+* Kilauta naapurille
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Repo owner or admin: salean
+* Other community or team contact: herra johtaja
