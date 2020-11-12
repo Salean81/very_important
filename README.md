@@ -7,7 +7,7 @@ Tämä kannattaa ehdottomasti lukea!
 
 ### Mikä on tämän repon pointti? ###
 
-* Tämä on supersiisti harjoitusrepo
+
 * Version 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
